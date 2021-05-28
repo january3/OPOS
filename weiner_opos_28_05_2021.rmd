@@ -49,3 +49,434 @@ library(tidyverse)
 ```
 
 
+## Berlin Institute of Health
+
+.pull-left[
+
+ * Badania translacyjne i *precision medicine*
+
+ * Założony w 2013 przez Max Delbrück Center for
+   Molecular Medicine oraz Charité – klinikę uniwersytecką obu berlińskich
+   uniwersytetów – Humboldt University i Free University Berlin.
+
+ * Od 2020 oficjalnie "trzeci filar" Charité
+
+]
+
+
+![](images/charite.jpg)
+
+???
+
+Charité – over 15,000 employes
+
+---
+
+.center[
+.myquote[
+<span style="font-size:200%">Otwartość w nauce vs otwartość nauki</span>
+]]
+
+
+???
+
+Otwartość nauki to także otwartość na laików
+
+---
+
+
+.pull-left[
+
+Rewelacja!
+
+ * Urządzenie oddziaływuje bezpośrednio z naszym układem nerwowym przez
+   wytwarzanie cząstek elementarnych
+ 
+ * Cząstki elementarne wytwarzane są w wyniku transmutacji energii
+
+ * Proste w obsłudze
+
+ * Wzmacnia odbierane przez nas bodźce
+
+ * Poprawia samopoczucie
+
+ * Zmniejsza prawdopodobieństwo urazu
+
+ * Polepsza zdolność odbierania bodźców przez nasz układ nerwowy
+
+ * Może służyć do przekazywania myśli na odległość
+
+]
+
+--
+
+.pull-right[
+
+![](images/lampa.jpg)
+
+
+]
+
+---
+
+???
+
+Do tego przykładu wrócimy jeszcze później
+
+Żargon nauki jest trudny
+
+---
+
+
+.center[
+![](images/kamienica_1.png)
+]
+
+
+---
+
+##  	
+
+<br/><br/>
+
+
+.pull-left[
+.myquote[
+"Od twardej wody dostaje się kamienicy nerkowej"
+
+<span style="text-align:right;">(anonimowy internauta)</span>
+]
+]
+
+--
+
+.pull-right[
+
+
+![](images/kamienica.png)
+
+"...imited data suggest possible benefit from dietary calcium."
+
+
+]
+
+???
+
+szczawiany wywołują kamicę; szczawian wapnia jest nierozpuszczalny
+
+wytrącanie szczawianu wapnia jeszcze w układzie pokarmowym
+
+NAUKA JEST NIEINTUICYJNA
+
+
+---
+
+
+.pull-left[
+
+.myquote[
+
+"Niech bilardy dobra walczą z milionami zła." 
+
+(strona prywatnego gabinetu
+lekarskiego)
+
+]
+]
+
+.pull-right[
+
+![](images/przeszczep_kalu.png)
+
+![](images/przeszczep_kalu_2.png)
+
+]
+
+???
+
+Bakterii nie jest aż o 10 x więcej niż naszych komórek
+
+Na przykład prawdą jest, że przeprowadzono test eksperymentalnej terapii
+przeszczepiającej florę bakteryjną u osób cierpiących na autyzm. Jednak nie
+był to test kliniczny, a tzw. *open label trial*, bez grupy kontrolnej i
+bez zaślepienia (pacjenci i lekarze wiedzieli, kto i jakiemu poddawany jest
+zabiegowi).
+
+
+
+---
+
+![](images/zywa_kropla.png)
+
+---
+
+.pull-left[
+
+![](images/zywakrew_wyniki.jpg)
+
+]
+
+--
+
+.pull-right[
+![](images/trup.jpg)
+]
+
+???
+
+Na podstawie tego obrazu można z całą pewnością powiedzieć tylko jedno,
+mianowicie gdzie znajduje się pacjent
+
+
+---
+
+.pull-left[
+![](images/grupykrwi.jpg)
+]
+
+--
+
+.pull-right[
+![](images/blood_condoms.png)
+
+]
+
+
+---
+
+.pull-left[
+
+![](images/wzmocnijodpornosc.png)
+
+]
+
+.pull-right[
+
+
+]
+
+???
+
+Sprawa bardziej skomplikowana 
+
+Układ odpornościowy można osłabić, ale nie wzmocnić
+
+---
+class:empty-slide,mywhite
+background-image:url(images/wzmocnijodpornosc_2.png)
+
+???
+
+Glutation – GSH
+
+nasze komórki syntetyzują go w wystarczających ilościach
+
+suplementacja nie przynosi efektów
+
+
+---
+
+
+.center[
+.myquote[
+ <span style="font-size:250%">W samym roku 2018 w Polsce firmy farmaceutyczne wydały ponad 4 miliardy złotych
+   na reklamy</span>
+   ]
+   ]
+
+.myfootnote[
+Źródła
+
+ * [Raport Instytutu Monitorowania Mediów](https://www.imm.com.pl/branza-farmaceutyczna-liderem-rocznego-zestawienia-wydatkow-reklamowych-raport-imm-wydatki-reklamowe-w-wybranych-branzach-w-okresie-od-1-stycznia-do-31-grudnia-2018/)
+ * [https://www.statista.com/statistics/589452/value-dietary-supplements-markets-europe-by-country/](https://www.statista.com/statistics/589452/value-dietary-supplements-markets-europe-by-country/)
+   ]
+
+
+--
+ 
+.center[
+.myquote[
+ <span style="font-size:250%">Polski rynek suplementów diety jest na piątym
+ miejscu w Europie
+   </span>
+   ]
+   ]
+
+ 
+---
+
+.myquote[
+Kup sobie coś na wątrobę!
+]
+
+--
+
+.pull-left[
+![](images/raphacholin.jpg)
+]
+
+--
+
+.pull-right[
+
+![](images/wzmocnijodpornosc_3.png)
+
+]
+
+
+???
+
+
+niealkoholowa stłuszczeniowa choroba wątroby w wyniku niedoboru choliny,
+ale nadmiar choliny nie leczy choroby wątroby wywołanej np. spożyciem
+alkoholu
+
+odwrócenie przyczynowości
+
+asparaginian ornityny stosowany przy leczeniu encefalopatii w wyniku
+marskości wątroby i wywołanego nią podwyższenia poziomu amoniaku we krwi
+
+Niby prawda, a smakuje jak oszustwo: nie wspomina się o tym, że
+dotyksyfikować detoksyfikuje, ale tylko jedną określoną substancję w bardzo
+specyficznych warunkach!
+
+
+---
+
+.pull-left[
+
+Rewelacja!
+
+ * Urządzenie oddziaływuje bezpośrednio z naszym układem nerwowym przez
+   wytwarzanie cząstek elementarnych
+ 
+ * Cząstki elementarne wytwarzane są w wyniku transmutacji energii
+
+ * Proste w obsłudze
+
+ * Wzmacnia odbierane przez nas bodźce
+
+ * Poprawia samopoczucie
+
+ * Zmniejsza prawdopodobieństwo urazu
+
+ * Polepsza zdolność odbierania bodźców przez nasz układ nerwowy
+
+ * Może służyć do przekazywania myśli na odległość
+
+]
+
+.pull-right[ ![](images/lampa.jpg) ]
+
+
+---
+
+.pull-left[
+
+Istnieje specjalistyczna terapia w której światło widzialne wykorzystywane
+jest to aktywowania fotouczulaczy (wstrzykiwanych lokalnie), żeby
+targetować nowotwory...
+
+...w takim razie, czy wystarczy poświecić na raka, żeby zniknął?
+]
+
+--
+
+.pull-right[
+![](images/bioptron.jpg)
+]
+
+???
+
+leczenie raka światłem: istnieje prawdziwa terapia, PDT, polegająca na podaniu
+fotouczulacza, który następnie aktywuje się światłem
+
+
+---
+
+.pull-left[
+
+.myquote[
+
+They're doing everything right. The form is perfect. It looks exactly the
+way it looked before. But it doesn't work. No airplanes land. So I call
+these things cargo cult science, because they follow all the apparent
+precepts and forms of scientific investigation, but they're missing
+something essential, because the planes don't land.
+
+Richard Feynman
+
+]]
+
+.pull-right[
+
+![](images/cargocult_3.jpeg)
+
+]
+
+???
+
+Kult kargo
+
+Nie ma nic nieracjonalnego w samym działaniu mieszkańców Papui Nowej Gwinei
+
+=> działa, bo przyciąga turystów
+
+---
+
+## Studia obserwacyjne vs zrandomizowane testy kliniczne (RCT)
+
+.pull-left[
+
+"Real world" (observational) studies:
+
+ * nieuprawnione porównania (apples to oranges)
+  * problemy z właściwymi grupami kontrolnymi
+  * brak kontroli systematycznych błędów
+ * nieplanowane porównania (*post hoc*)
+  * ułatwia cherry-picking 
+
+]
+
+
+.pull-right[
+
+RCT:
+
+
+ * randomizacja *jednej* grupy ochotników
+  * grupy mają te same cechy (poza kontrolowanym zabiegiem)
+  * nie ma systematycznych niekontrolowanych różnic
+ * planowana analiza uniemożliwia (utrudnia) cherry-picking
+
+
+![:scale 90%](images/first_trial.jpg)
+
+*pierwszy RCT – 1948*
+
+]
+
+???
+
+Czym jest ta istotna rzecz: testy kliniczne
+
+ - Fisher published his book in 1935
+ - Ethics: streptomycin was scarce anyway
+
+
+
+
+---
+
+
+
+
+---
+
+## I co z tego wynika?
+
+
+
+
+
+
