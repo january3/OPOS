@@ -84,6 +84,15 @@ Otwartość nauki to także otwartość na laików
 
 ---
 
+.center[
+.myquote[
+
+[https://january3.github.com/OPOS/](https://january3.github.com/OPOS/)
+
+]]
+
+---
+
 
 .pull-left[
 
@@ -476,7 +485,27 @@ Czym jest ta istotna rzecz: testy kliniczne
 ## I co z tego wynika?
 
 
+--
 
+ * Granica bywa płynna
+
+--
+
+ * Potrzeba meta-informacji naukowej: o walidacjach, RCT, potwierdzeniach,
+   o całym procesie naukowym
+
+--
+
+ * Przekonać o potrzebie powoływania się na źródła
+
+--
+
+ * Otwartość procesu zwiększa zaufanie
+
+
+???
+
+Nie ma innego wyboru niż otwartość
 
 
 
