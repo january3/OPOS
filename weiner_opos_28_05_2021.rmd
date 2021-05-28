@@ -93,7 +93,6 @@ Otwartość nauki to także otwartość na laików
 
 ---
 
-
 .pull-left[
 
 Rewelacja!
@@ -128,8 +127,6 @@ Olbrzymia liczba zastosowań:
 
 ]
 
----
-
 ???
 
 Do tego przykładu wrócimy jeszcze później
@@ -142,6 +139,11 @@ Do tego przykładu wrócimy jeszcze później
 .center[
 ![](images/kamienica_1.png)
 ]
+
+
+???
+
+w nawiązaniu do wykładu pana Krzysztofa Szymanka
 
 
 ---
@@ -475,10 +477,16 @@ Czym jest ta istotna rzecz: testy kliniczne
  - Ethics: streptomycin was scarce anyway
 
 
+---
+
+class:empty-slide,mywhite
+background-image:url(images/schemat_badania_0.png)
 
 
 ---
 
+class:empty-slide,mywhite
+background-image:url(images/schemat_badania_2.png)
 
 
 
@@ -486,10 +494,18 @@ Czym jest ta istotna rzecz: testy kliniczne
 
 ## I co z tego wynika?
 
+--
+
+ * Część wspólna: podstawy naukowe, mniej lub bardziej solidne
+
 
 --
 
  * Granica bywa płynna
+
+--
+
+ * To nie jest tylko wina "laików", odbiorców informacji naukowej
 
 --
 
